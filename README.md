@@ -17,7 +17,7 @@ pulse: uses the pulse method to make the bulb dim for half a second
 All other commands have to be sent as a key=value pair.
 Known working options are:
 
-state=(0 or 1)(false or true) turns the bulb off or on
+  state=(0 or 1)(false or true) turns the bulb off or on
   r=(0-255) for the red LED
   g=(0-255) for green
   b=(0-255) for blue
