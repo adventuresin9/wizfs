@@ -2,6 +2,8 @@
 A 9Front file server for interacting with Philips Wiz light bulbs
 by adventuresin9
 
+This uses json.h which is available in 9Front.
+
 usage: wizfs -m "mount point" -s "srv name" -d (set debug true)
 
 The defaults are to mount "wiz" in /n, and post "wizfs" to /srv.
