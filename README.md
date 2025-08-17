@@ -31,3 +31,7 @@ Known working options are:
 Sometimes the bulb will send back an error if the value is outside a given range.
 Other times it will report success, but the value might be looped back around to 0.
 Like, b=265 looks like b= 10.  So bits over a certain value may be truncated by the bulb.
+
+NEW;
+
+I have found that this works as is with the Wiz brand Smart Plug.  It will turn the plug on and off using the same commands that turn the bulbs on and off.
